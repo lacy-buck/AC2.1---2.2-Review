@@ -1,0 +1,6 @@
+{
+  "name": "ChemReview: High School Chemistry Mastery",
+  "description": "Interactive high school chemistry review app covering chemical bonding, ionic formulas, experimental properties, halogen reactivity series, and Claim-Evidence-Reasoning problems.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
